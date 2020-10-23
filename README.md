@@ -1,6 +1,10 @@
-## uMatrix<br>[<img src="https://travis-ci.org/gorhill/uMatrix.svg?branch=master" height="16">](https://travis-ci.org/gorhill/uMatrix)
+## weMatrix
 
-Definitely for advanced users.
+A fork of the discontinued uMatrix browser extension.
+
+***
+
+The point of this fork is to steadily maintain uMatrix by fixing bugs and implementing modest feature requests.
 
 ***
 
